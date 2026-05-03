@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff4f8"/>
+      <stop offset="100%" stop-color="#edf4ff"/>
+    </linearGradient>
+    <linearGradient id="bottle" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d94f3b"/>
+      <stop offset="100%" stop-color="#9d1a27"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" rx="42" fill="url(#bg)"/>
+  <rect x="182" y="120" width="436" height="560" rx="42" fill="#fff" stroke="#f0d5e2" stroke-width="6"/>
+  <rect x="246" y="162" width="308" height="82" rx="20" fill="#2f6fbe"/>
+  <text x="400" y="214" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="44" font-weight="700" fill="#fff">KUHMASTER</text>
+  <ellipse cx="400" cy="620" rx="150" ry="30" fill="#d7dfea"/>
+  <rect x="332" y="272" width="136" height="268" rx="34" fill="url(#bottle)"/>
+  <rect x="350" y="232" width="100" height="54" rx="16" fill="#2f6fbe"/>
+  <rect x="344" y="362" width="112" height="90" rx="20" fill="#fff5de"/>
+  <text x="400" y="398" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="22" font-weight="700" fill="#aa2336">ХАЛУУН</text>
+  <text x="400" y="428" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="22" font-weight="700" fill="#aa2336">КЕТЧУП</text>
+  <path d="M403 464 C446 494 444 554 403 586 C362 554 360 494 403 464 Z" fill="#ef473f"/>
+  <path d="M403 476 C426 496 426 530 403 549 C380 530 380 496 403 476 Z" fill="#ffbe2e"/>
+  <path d="M468 500 C496 500 516 520 516 548 C516 590 472 606 445 580 C421 557 433 524 468 500 Z" fill="#3ba94d"/>
+  <text x="400" y="724" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="32" font-weight="700" fill="#183153">Кухмастер кетчуп халуун ногоотой 350гр</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff4f8"/>
+      <stop offset="100%" stop-color="#edf4ff"/>
+    </linearGradient>
+    <linearGradient id="jar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d94444"/>
+      <stop offset="100%" stop-color="#b11d32"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" rx="42" fill="url(#bg)"/>
+  <rect x="182" y="120" width="436" height="560" rx="42" fill="#fff" stroke="#f0d5e2" stroke-width="6"/>
+  <rect x="246" y="162" width="308" height="82" rx="20" fill="#2f6fbe"/>
+  <text x="400" y="214" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="44" font-weight="700" fill="#fff">KUHMASTER</text>
+  <ellipse cx="400" cy="610" rx="150" ry="30" fill="#d7dfea"/>
+  <rect x="300" y="280" width="200" height="260" rx="28" fill="url(#jar)"/>
+  <rect x="328" y="250" width="144" height="48" rx="16" fill="#2f6fbe"/>
+  <rect x="336" y="350" width="128" height="82" rx="18" fill="#fff4df"/>
+  <text x="400" y="387" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="24" font-weight="700" fill="#9a1c34">ТОМАТ</text>
+  <text x="400" y="420" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="24" font-weight="700" fill="#9a1c34">ПАСТА</text>
+  <circle cx="400" cy="510" r="30" fill="#ffb34d"/>
+  <path d="M400 468 C430 486 446 515 446 548 C446 586 425 610 400 610 C375 610 354 586 354 548 C354 515 370 486 400 468 Z" fill="#ef473f"/>
+  <text x="400" y="724" text-anchor="middle" font-family="Calibri, Arial, sans-serif" font-size="34" font-weight="700" fill="#183153">Кухмастер улаан лоолийн нухаш 370гр</text>
+</svg>
