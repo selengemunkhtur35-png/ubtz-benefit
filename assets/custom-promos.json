@@ -1,0 +1,64 @@
+{
+  "discounts": [
+    {
+      "id": "auto-ubtz-fanta-apple-2l-discount",
+      "title": "Fanta алим 2л урамшуулал",
+      "description": "Fanta алим 2л бүтээгдэхүүний хямдралын санал.",
+      "partner": "MCS Coca-Cola",
+      "discountPercent": 7,
+      "badge": "Урамшуулал",
+      "code": "PROMO677849",
+      "actionLabel": "Нээх",
+      "segment": "coupon"
+    }
+  ],
+  "products": [
+    {
+      "id": "auto-ubtz-fanta-apple-2l-product",
+      "title": "Fanta алим 2л",
+      "description": "Алимны амттай хийжүүлсэн Fanta ундаа, 2 литрийн савлагаатай.",
+      "mainCategory": "food",
+      "subcategory": "beverage",
+      "type": "all",
+      "partner": "MCS Coca-Cola",
+      "price": 5600,
+      "discount": 7,
+      "badge": "Шинэ",
+      "note": "MCS Coca-Cola",
+      "image": "assets/promo/raw/ubtz-fanta-apple-2l.jpg"
+    }
+  ],
+  "productStories": [
+    {
+      "id": "auto-ubtz-fanta-apple-2l-story",
+      "title": "Fanta алим 2л",
+      "detail": "₮5,600",
+      "fullText": "Fanta алим 2л каталогт нэмэгдлээ.",
+      "image": "assets/promo/raw/ubtz-fanta-apple-2l.jpg",
+      "page": "products",
+      "productMain": "food",
+      "productSub": "beverage",
+      "productType": "all",
+      "linkedProductId": "auto-ubtz-fanta-apple-2l-product"
+    }
+  ],
+  "featuredProducts": [
+    {
+      "id": "auto-ubtz-fanta-apple-2l-featured",
+      "title": "Fanta алим 2л",
+      "description": "Саналын үнэ: ₮5,600",
+      "badge": "Шинэ",
+      "image": "assets/promo/raw/ubtz-fanta-apple-2l.jpg",
+      "note": "MCS Coca-Cola",
+      "cta": "Дэлгэрэнгүй",
+      "section": "promo",
+      "linkedProductId": "auto-ubtz-fanta-apple-2l-product"
+    }
+  ],
+  "homePartners": [
+    {
+      "short": "MC",
+      "name": "MCS Coca-Cola"
+    }
+  ]
+}
