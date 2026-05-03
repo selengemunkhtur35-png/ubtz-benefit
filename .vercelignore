@@ -1,0 +1,7 @@
+.github/
+scripts/
+test-results/
+*.pptx
+*.ps1
+smoke-test.js
+.agent.md
