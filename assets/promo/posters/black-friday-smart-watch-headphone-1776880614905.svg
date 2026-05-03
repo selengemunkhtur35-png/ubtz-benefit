@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f1d35"/>
+      <stop offset="45%" stop-color="#162947"/>
+      <stop offset="100%" stop-color="#31153f"/>
+    </linearGradient>
+    <linearGradient id="overlay" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.38"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#04070f" flood-opacity="0.55"/>
+    </filter>
+    <clipPath id="cardClip"><rect x="70" y="95" width="940" height="1160" rx="52" ry="52"/></clipPath>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="210" cy="220" r="230" fill="#2f6fbe" fill-opacity="0.28"/>
+  <circle cx="920" cy="260" r="240" fill="#b20b63" fill-opacity="0.23"/>
+  <circle cx="980" cy="1120" r="280" fill="#5d1f8f" fill-opacity="0.22"/>
+  <g filter="url(#cardShadow)">
+    <rect x="70" y="95" width="940" height="1160" rx="52" ry="52" fill="#0c1324"/>
+    <image href="../raw/black-friday-smart-watch-headphone-1776880614905.jpg" x="70" y="95" width="940" height="1160" preserveAspectRatio="xMidYMid slice" clip-path="url(#cardClip)"/>
+    <rect x="70" y="95" width="940" height="1160" rx="52" ry="52" fill="url(#overlay)"/>
+  </g>
+  <rect x="70" y="95" width="940" height="1160" rx="52" ry="52" fill="none" stroke="#f5f8ff" stroke-opacity="0.22"/>
+</svg>
