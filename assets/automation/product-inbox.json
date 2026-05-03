@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": "ubtz-fanta-apple-2l",
+      "name": "Fanta алим 2л",
+      "partner": "MCS Coca-Cola",
+      "price": 5600,
+      "discount_price": 5200,
+      "discount_percent": 7,
+      "mainCategory": "food",
+      "subcategory": "beverage",
+      "type": "all",
+      "description": "Алимны амттай хийжүүлсэн Fanta ундаа, 2 литрийн савлагаатай.",
+      "badge": "Шинэ",
+      "search": "Fanta apple 2L bottle",
+      "imageUrl": "https://erp.afta.mn/web/image/product.template/100151/image_1920?unique=b7b8621",
+      "addToStory": true,
+      "addToDiscount": true,
+      "addToFeatured": true,
+      "featuredSection": "promo",
+      "status": "published",
+      "createdAt": "2026-04-28T04:46:04.031Z",
+      "posterWebPath": "assets/promo/raw/ubtz-fanta-apple-2l.jpg",
+      "rawWebPath": "assets/promo/raw/ubtz-fanta-apple-2l.jpg",
+      "imageSource": "https://erp.afta.mn/web/image/product.template/100151/image_1920?unique=b7b8621",
+      "styledAt": "2026-04-28T04:47:48.525Z",
+      "message": "Каталог/стори/урамшуулал руу амжилттай нэмэгдлээ.",
+      "publishedAt": "2026-04-28T04:47:57.847Z"
+    }
+  ]
+}
